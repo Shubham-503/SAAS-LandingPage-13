@@ -23,9 +23,9 @@
 
 - # [Live Link](https://saas-13.netlify.app/)
 
-![Screenshots](/images/thumbnail.PNG)
-![Screenshots](/images/thumbnail2.PNG)
-![Screenshots](/images/thumbnail3.PNG)
+![Screenshots](/images/thumbnail.png)
+![Screenshots](/images/thumbnail2.png)
+![Screenshots](/images/thumbnail3.png)
 ![Screenshots](/images/thumbnail4.PNG)
 ![Screenshots](/images/thumbnail5.PNG)
 ![Screenshots](/images/thumbnail6.PNG)
