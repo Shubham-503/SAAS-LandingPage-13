@@ -1,4 +1,3 @@
-
 # Project Name: SAAS Landing Page
 
 ## Project Description
@@ -8,20 +7,22 @@
 > Beautiful UI
 
 ## Technologies Used
- - HTML 
- - CSS with media queries
+
+- HTML
+- CSS with media queries
 
 ## My Learning
+
 - Learned the importance of using image having right dimensions
 - learned the use of display flex property
 - learned to use Media Query
 
 <br>
 
-#### It took around 2.5 hr to build 
- - livelink()
+#### It took around 2.5 hr to build
 
-# 
+- # [Live Link](https://saas-13.netlify.app/)
+
 ![Screenshots](/images/thumbnail.PNG)
 ![Screenshots](/images/thumbnail2.PNG)
 ![Screenshots](/images/thumbnail3.PNG)
